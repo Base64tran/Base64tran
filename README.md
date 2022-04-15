@@ -1,4 +1,13 @@
-### Hi there 👋
+# **Heyo! Tyler Here!**
+
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+## **`$ whoami`**
+***
+- **A student at Louisiana Tech University**
+
+## **Skills**
+- **Python**
 
 <!--
 **Base64tran/Base64tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
