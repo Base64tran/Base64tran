@@ -3,10 +3,9 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ## **`$ whoami`**
-***
 - **A student at Louisiana Tech University**
 
-## **Skills**
+## **`$ ls /home/skill`**
 - **Python**
 
 <!--
